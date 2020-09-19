@@ -10,8 +10,10 @@
 * Skype: irina_slukina
 * Telegram: [@sblkina](https://t.me/sblkina)
 * Github: [@codefornia](https://github.com/codefornia/)
+* Facebook: [Irina Slukina](https://www.facebook.com/irinkaslukina/)
 * Linkedin: [Irina Slukina](https://www.linkedin.com/in/irina-slukina-72116a17a/)  
 * Portfolio: [irinasolnceva.com](https://irinasolnceva.com/)  
+
 
 ## Summary
 I have 10 years of experience in design.
