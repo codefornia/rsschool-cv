@@ -1,1 +1,1 @@
-https://codefornia.github.io/rsschool-cv/
+https://codefornia.github.io/rsschool-cv/cv
