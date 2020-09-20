@@ -42,4 +42,9 @@ Now I am actively studying web development to change my profession.
 * [Stepik](https://stepik.org/users/58493511)  
 * [Code-basics](https://ru.code-basics.com/profile)  
 * [RS.school](https://rs.school/)   JS September 2020 now  
+
+## Languages  
+* Russian native speaker  
+* English А2
+
   
