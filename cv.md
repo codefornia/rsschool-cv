@@ -26,7 +26,7 @@ Now I am actively studying web development to change my profession.
 * CSS, HTML, SCSS;  
 * BEM;  
 * LESS, SASS;  
-* ES5, ES6 +, TypeScript;  
+* ES5, ES6+, TypeScript;  
 * Vanilla Javascript  
 * ReactJs, AngularJs (learning);  
 * WebPack, Gulp;  
