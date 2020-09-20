@@ -3,7 +3,7 @@
 ## Personal Information  
 * Name: **Irina Slukina** 
 * Age: 31
-* Location: Moscow
+* Location: Moscow, Russia
   
 ## Contacts  
 * Email: codeforniadreamin@gmail.com  
